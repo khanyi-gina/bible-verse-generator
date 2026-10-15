@@ -8,6 +8,7 @@ a {
 }
 
 .container { 
+  background-image: url('images/wallpaper.jpg');
   margin: 120px auto;
   max-width: 600px;
 }
