@@ -1,5 +1,5 @@
 body {
-   background-image: url('images/background.jpg');
+   background-image: url("images/background.jpg";
    font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -8,6 +8,7 @@ a {
 }
 
 .container {
+   
   margin: 120px auto;
   max-width: 600px;
 }
