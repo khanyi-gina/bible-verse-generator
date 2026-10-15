@@ -1,7 +1,6 @@
 .wallpaper {
   background-image: url("../wallpaper.png");
   background-repeat: no-repeat;
-  min-height: 100vh;
   font-family: Helvetica, Arial, sans-serif;
 }
 
