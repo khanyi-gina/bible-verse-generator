@@ -1,5 +1,5 @@
-body {
-   background: url('images/wallpaper.jpg');
+.wallpaper {
+   background-image: url('images/wallpaper.jpg');
    font-family: Helvetica, Arial, sans-serif;
 }
 
