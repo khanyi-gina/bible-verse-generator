@@ -1,5 +1,5 @@
 body {
-   background-image: url('images/background.jpg');
+   background-color: #f9f7fe;
    font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -8,6 +8,7 @@ a {
 }
 
 .container { 
+  background-image: url('images/background.jpg');
   margin: 120px auto;
   max-width: 600px;
 }
