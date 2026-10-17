@@ -37,12 +37,13 @@ form {
 
 .instructions {
   padding: 16px;
-  border: 1px solid #422006;
+  border: 1px solid rgba(39, 33, 66, 0.5);
   width: 80%;
   font-size: 16px;
   border-radius: 50px;
   line-height: 20px;
   color: #272044;
+  border-color: #422006;
 }
 
 .submit-button {
