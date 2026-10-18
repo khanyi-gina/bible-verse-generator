@@ -43,7 +43,13 @@ form {
   border-radius: 50px;
   line-height: 20px;
   color: #272044;
+  outline: none;
 }
+
+.instructions:focus {
+  border: 2px solid #422006;
+  outline: none; 
+  }
 
 .submit-button {
   margin-left: 10px;
