@@ -37,7 +37,7 @@ form {
 
 .instructions {
   padding: 16px;
-  border: 2px solid #422006;
+  border: 3px solid #422006;
   width: 80%;
   font-size: 16px;
   border-radius: 50px;
@@ -47,7 +47,7 @@ form {
 }
 
 .instructions:focus {
-  border: 2px solid #422006;
+  border: 3px solid #422006;
   outline: none; 
   }
 
