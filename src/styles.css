@@ -37,18 +37,18 @@ form {
 
 .instructions {
   padding: 16px;
-  border: 3px solid #422006;
+  border: 3px solid #422006 !important;
   width: 80%;
   font-size: 16px;
   border-radius: 50px;
   line-height: 20px;
   color: #272044;
-  outline: none;
+  outline: none !important;
 }
 
 .instructions:focus {
-  border: 3px solid #422006;
-  outline: none; 
+  border: 3px solid #422006 !important;
+  outline: none !important;
   }
 
 .submit-button {
