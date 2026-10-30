@@ -5,7 +5,7 @@
   𝗖𝗹𝗶𝗰𝗸 𝗶𝗺𝗮𝗴𝗲 𝗯𝗲𝗹𝗼𝘄 𝘁𝗼 𝘃𝗶𝗲𝘄
 
  <a href="https://ai-bible-verse-generator.netlify.app/">
-    <img src="AIBibleGenerator.jpg" alt="AI Bible generator image" width="60%" height="60%"/>
+    <img src="AIBibleGenerator.jpg" alt="AI Bible generator image" width="70%" height="70%"/>
 </a>
 <br />
 <br />
